@@ -1,7 +1,9 @@
 print("hello world");
 hi dude;
-yyyyaaaar
+yyyyaaaar;
 
 конфликтный hello
 
 глед ту си ю
+
+
