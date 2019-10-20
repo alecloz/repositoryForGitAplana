@@ -1,9 +1,0 @@
-print("hello world");
-hi dude;
-yyyyaaaar;
-
-конфликтный hello
-
-глед ту си ю
-
-
