@@ -1,3 +1,5 @@
 print("hello world");
 hi dude;
 yyyyaaaar
+
+конфликтный hello
